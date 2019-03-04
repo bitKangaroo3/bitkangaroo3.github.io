@@ -1,10 +1,13 @@
 # Site
-name: "Tomoki Takahashi"
-title: "Himolog"
+name: "Himoblog"
+title: "Himoblog"
 description: "of the himo, by the himo, for the himo"
 meta_description: "of the himo, by the himo, for the himo"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
+owener_name: "トモキ"
+owener_description: "ヒモ。本が好なので、本代を稼ぐためWeb制作や料理をやっています。"
+profile_photo: "assets/images/profile-photo.jpg"
 paginate: 12
 baseurl: ''
 email: 'wowthemesnet@gmail.com'
@@ -14,6 +17,14 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
+  Tomoki:
+    name: Tomoki
+    display_name: トモキ
+    gravatar:
+    email:
+    web:
+    twitter: https://twitter.com/bitkangaroo3
+    description: "Author of this site."
   sal:
     name: Sal
     display_name: Sal

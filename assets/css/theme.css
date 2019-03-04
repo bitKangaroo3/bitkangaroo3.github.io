@@ -865,3 +865,19 @@ iframe {
 
 /* Additional */
 
+/* author.html */
+.profile-photo {
+	padding: 10%;
+	border-radius: 50%;
+}
+.owener-name {
+	font-size: 26px;
+	padding: 20px 0;
+	width: fit-content;
+	margin: 0 auto 30px auto;
+	border-bottom: 2px solid #f6f6f6;
+}
+.profile-list ul li a{
+	padding-top: 0;
+	border: none;
+}
