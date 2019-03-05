@@ -867,7 +867,7 @@ iframe {
 
 /* author.html */
 .profile-photo {
-	padding: 10%;
+	padding: 20%;
 	border-radius: 50%;
 }
 .owener-name {
@@ -880,4 +880,10 @@ iframe {
 .profile-list ul li a{
 	padding-top: 0;
 	border: none;
+}
+
+/* header */
+
+.mediumnavigation .navbar-brand img  {
+	width: 150px;
 }
